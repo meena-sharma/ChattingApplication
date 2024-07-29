@@ -1,5 +1,5 @@
 Description:
-This repository contains a basic client-server chat application written in Java, utilizing Swing for the graphical user interface and Java sockets for network communication.
+This repository contains a basic client-server chat application written in Java, utilizing Swing for the graphical user interface and Java sockets for network communication.Both classes handle message formatting and GUI updates, ensuring a user-friendly display of chat interactions. They also include basic exception handling for managing potential errors in networking and GUI operations.
 
 Features:
 Client Interface: A simple GUI with text input, a send button, and a chat display panel. The client connects to a server, sends messages, and displays received messages.
